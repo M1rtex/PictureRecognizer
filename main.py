@@ -7,7 +7,7 @@ from glob import glob
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 custom_config = r"--oem 3 --psm 6"
-TOKEN = '5297439905:AAEmYVKrpWyhh_g8E5d0Upg-RVDQtOlhesg'
+TOKEN = ''
 
 
 def text_recognition(file_path):
