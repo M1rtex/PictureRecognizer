@@ -9,7 +9,7 @@ numpy==1.22.2
 opencv-python==4.5.4.60
 opencv-python-headless==4.5.5.62
 packaging==21.3
-Pillow==8.2.0
+Pillow==9.0.1
 pyparsing==3.0.7
 pyTelegramBotAPI==3.7.6
 pytesseract==0.3.8
